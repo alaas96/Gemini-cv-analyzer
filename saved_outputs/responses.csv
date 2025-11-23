@@ -1,0 +1,64 @@
+document_id,timestamp,model_instruction,input_prompt,response
+cc616fee-be4c-4d36-9ad5-ca51d99c78c8,2025-11-23T18:55:09.338673,You are an expert in analyzing CVs. You will receive an image of a resume and extract details about the person.,give me all th important infos about the candidate ,"Here is a summary of the important information extracted from the CV:
+
+**Candidate Name:** Gérard SERVEUR
+*(Note: While the name is ""Gérard"" (male), the professional title ""Serveuse polyvalente"" (versatile waitress) is feminine. The accompanying photo also depicts a female. This suggests a potential template usage or placeholder name inconsistency.)*
+
+**Desired Position/Summary:** Serveuse polyvalente - 6 ans en restauration (Versatile waitress - 6 years in catering/restaurant)
+
+**Summary/About Me:**
+An experienced server with 6 years of experience in room and bar service. Has worked as a waiter in various cafes and restaurants, improving efficiency, anticipation, and responsiveness to customer demands.
+
+**Contact Information:**
+*   **Phone:** +336 01 02 03 04
+*   **Email:** votre.nom.prenom@gmail.com (Placeholder)
+*   **Location:** Marseille, France
+*   **LinkedIn:** linkedin.com/votre-profil (Placeholder)
+
+**Professional Experience (6 years total):**
+
+1.  **Serveur au bar-restaurant**
+    *   **Dates:** 04/2019 - Aujourd'hui (Present)
+    *   **Company:** Café du Commerce, Paris
+    *   **Key Responsibilities:** Table service, table preparation, menu presentation, advice on dish and drink selection, cocktail and alcoholic beverage preparation, customer payment collection.
+    *   **Noteworthy:** First experience in bar service, gained experience in cocktail preparation, adapted to multi-service environments.
+
+2.  **Serveur**
+    *   **Dates:** 01/2015 - 04/2019
+    *   **Company:** Brasserie des Fleurs, Paris
+    *   **Key Responsibilities:** Table service, table preparation, order processing, customer payment collection.
+    *   **Noteworthy:** Longest professional experience, developed adaptability during various services, effectively managed customer demands during both off-peak and peak hours.
+
+3.  **Serveur**
+    *   **Dates:** 02/2014 - 12/2014
+    *   **Company:** La Belle Vie, Paris
+    *   **Key Responsibilities:** Table service, table preparation, dish presentation, order processing, assistance with dessert preparation.
+    *   **Noteworthy:** Solidified foundational skills acquired during training, discovered new kitchen techniques, learned to work more quickly and efficiently.
+
+**Education:**
+
+*   **2013:** Certificat d'Aptitudes Professionnelles – Restaurant (CAP Restaurant), Lycée Saint-Jacques, Paris.
+*   **2011:** Baccalauréat professionnel hôtellerie-restauration (Vocational Baccalaureate Hospitality-Catering), Lycée hôtelier Voltaire, Paris.
+*   **2008:** Brevet des collèges (Middle School Diploma) obtained with ""assez bien"" mention, Collège Saint-Dominique, Paris.
+
+**Skills (Compétences):**
+
+*   Fast order processing
+*   Ability to serve alcohol
+*   Stock and replenishment management
+*   Proficiency in 2 foreign languages:
+    *   English (Bilingual)
+    *   Spanish (Professional competence)
+
+**Qualities (Soft Skills):**
+
+*   Versatile
+*   Smiling/Cheerful
+*   Dynamic
+*   Able to handle stressful situations
+
+**Interests:**
+
+*   Tennis
+*   Travel (Spain, Italy, United Kingdom, Greece, United States)
+*   Reading"
